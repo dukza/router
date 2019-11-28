@@ -1,0 +1,6 @@
+.header{
+  display: table
+}
+.item{
+  display: table-cell;
+}
