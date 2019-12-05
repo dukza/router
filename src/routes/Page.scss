@@ -1,0 +1,28 @@
+@import './../common.css';
+@import './../short.scss';
+.pageWrap{
+  padding: 10px;
+}
+.pageNav{
+  .nav-item{
+    line-height: 40px;
+    text-decoration: none;
+    font-weight: $font-weight-bolder;
+    font-size: $h8;
+    color:$color-gray;
+    &:hover{
+      filter: brightness(1.1);
+    }
+  }
+  .nav-item.active{
+    background-color: #fff;
+    color: $color-black;
+    font-weight:$font-weight-bold;
+  }
+}
+.pageTitle{
+  font-size: $h6;
+  font-weight: $font-weight-bolder;
+  color:$color-black;
+}
+

@@ -1,25 +1,33 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import {BrowserRouter as Router, Route} from 'react-router-dom';
+
+import './common.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './vendor/all.css'
+
+import MainNav from "./components/MainNav";
+
+import Coupons from "./routes/Coupons";
+import Life from "./routes/Life";
+import Pay from "./routes/Pay";
+import Bank from "./routes/Bank";
+import More from "./routes/More";
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div>
+        <MainNav/>
+        <Route exact path="/" component={Coupons}></Route>
+        <Route path="/life" component={Life}></Route>
+        <Route path="/pay" component={Pay}></Route>
+        <Route path="/bank" component={Bank}></Route>
+        <Route path="/more" component={More}></Route>
+      </div>
+    </Router>
+
   );
 }
 

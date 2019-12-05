@@ -1,6 +1,16 @@
-.header{
-  display: table
-}
-.item{
-  display: table-cell;
-}
+@import url(./../common.css);
+.mainNav {
+  position: fixed;
+  bottom: 0px; }
+  .mainNav .nav-item {
+    text-align: center;
+    line-height: 40px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bolder; }
+    .mainNav .nav-item:hover {
+      filter: brightness(1.1); }
+  .mainNav .nav-item.active {
+    background-color: #fff;
+    color: #333; }
