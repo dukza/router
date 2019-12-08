@@ -2,55 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f66ad67a-1aaa-4fd6-baf8-f26a75dd980c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.codekit3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MainNav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PageTitle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PageTitleWrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/Coupons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/Life.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/More.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/Page.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/Page.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/Pay.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/bank.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vendor/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webfonts/fa-light-300.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webfonts/fa-light-300.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webfonts/fa-light-300.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webfonts/fa-light-300.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webfonts/fa-light-300.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/ActionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Control.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Value.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/Counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/router.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/router.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/short.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/Home.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/Mypage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/Posts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/short.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/short.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,6 +39,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1UC8uyx1Zae8HkEPXoHDsymKbCR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
@@ -84,7 +59,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -144,6 +119,8 @@
       <workItem from="1575457411467" duration="7741000" />
       <workItem from="1575524369290" duration="2000" />
       <workItem from="1575533693532" duration="1553000" />
+      <workItem from="1575535752691" duration="1728000" />
+      <workItem from="1575705534525" duration="10412000" />
     </task>
     <servers />
   </component>
