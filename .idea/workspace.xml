@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f66ad67a-1aaa-4fd6-baf8-f26a75dd980c" name="Default Changelist" comment="" />
+    <list default="true" id="f66ad67a-1aaa-4fd6-baf8-f26a75dd980c" name="Default Changelist" comment="리덕스 커밋">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +102,7 @@
       <workItem from="1575524369290" duration="2000" />
       <workItem from="1575533693532" duration="1553000" />
       <workItem from="1575535752691" duration="1728000" />
-      <workItem from="1575705534525" duration="10655000" />
+      <workItem from="1575705534525" duration="11099000" />
     </task>
     <task id="LOCAL-00001" summary="리덕스 커밋">
       <created>1575802017343</created>
